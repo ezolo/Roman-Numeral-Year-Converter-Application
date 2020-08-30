@@ -9,7 +9,7 @@
 
 ## 👩‍🏫 Application Walk Through
 ### 1️⃣ Entering Number ###
-> First, users will enter y or n (yes/no) for whether they want to convert numbers. If the user enters "y", they will proceed to the program. If the user enters "n", they will promptly exit the program. After this decision (if chosen "y"), users will enter a number (preferably a year).
+> First, users will enter "y" or "n" (yes/no) for whether they want to convert numbers. If the user enters "y", they will proceed to the program. If the user enters "n", they will promptly exit the program. After this decision (if chosen "y"), users will enter a number (preferably a year).
 ![](https://i.imgur.com/b3h1phD.png)
 
 
